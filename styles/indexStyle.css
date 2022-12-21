@@ -1,0 +1,18 @@
+.to-do-list {
+    display: table;
+    margin: 50px auto;
+    padding: 1px;   
+    text-align: center;
+    background-color: rgb(28, 160, 113);   
+}
+.list-items {  
+    text-align: left;
+    align-content: center;
+}
+.list-item {  
+    background-color: aliceblue;
+    margin: 2px;
+    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+}
